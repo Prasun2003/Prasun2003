@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRASUN ROY</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India.Currently I am pursuing B. tech in Information Technology branch from Narula Institute of Technology, Kolkata, West Bengal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasun2003&label=Profile%20views&color=0e75b6&style=flat" alt="prasun2003" /> </p>
 
@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@royprasun03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@royprasun03" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prasun-roy-a1a273240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prasun-roy-a1a273240/" height="30" width="40" /></a>
 <a href="https://fb.com/prasun roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasun roy" height="30" width="40" /></a>
 <a href="https://instagram.com/prasun03_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasun03_roy" height="30" width="40" /></a>
 </p>
