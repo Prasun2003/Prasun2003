@@ -11,8 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@royprasun03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@royprasun03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prasun2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasun2003" height="30" width="40" /></a>
-<a href="https://fb.com/prasun roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasun roy" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/prasun-roy-a1a273240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasun2003" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Prasun.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasun roy" height="30" width="40" /></a>
 <a href="https://instagram.com/prasun03_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasun03_roy" height="30" width="40" /></a>
 </p>
 
